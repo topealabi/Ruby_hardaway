@@ -1,0 +1,1 @@
+these are exercises from learning ruby the hard way ebook
